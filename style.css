@@ -1,0 +1,128 @@
+:root{
+    --primary-color: #AD343E;
+    --primary-color-highlight: #474747;
+    --bs-body-bg: #F9F9F7;
+    --bs-body-font-family: 'Playfair Display', serif;
+    --bs-primary-font-family: 
+}
+
+.navbar{
+    font-family: "DM Sans", sans-serif;
+}
+.btn{
+    border-radius: 30px;
+    color: #2C2F24;
+    border: 1px solid #2C2F24;
+}
+.btn:hover{
+    background-color: #2C2F24;
+}
+
+.hero-section{
+    background-image: url("images/Mask\ group.png");
+    width: 100%;
+    height: 662px;
+}
+.hero-heading{
+    text-align: center;
+    font-size: 5rem;
+    position: relative;
+    top: 180px;
+    /* width: 1010px; */
+}
+.hero-p{
+    text-align: center;
+    font-size: 1rem;
+    position: relative;
+    top: 200px;
+}
+
+.btn2{
+    width: 163px;
+    height: 64px;
+    border-radius: 30px;
+    position: relative;
+    top: 250px;
+    background-color: transparent;
+    font-family: "DM Sans", sans-serif;
+    /* border: 1px #AD343E solid; */;
+}
+
+.btn3{
+    border: 1px solid #AD343E;
+    color: white;
+    background-color: #AD343E;
+}
+.img-menu{
+    margin-top: 30px;
+}
+.card{
+    border: 1px solid #DBDFD0;
+    background-color: white;
+    margin-bottom: 100px;
+}
+.card-title{
+    font-weight: bold;
+}
+.card-body{
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+}
+.menu{
+    background-color: white;
+}
+.sec-heading{
+    font-size: 2.5rem;
+    text-align: center;
+    padding: 40px;
+    background-color: white;
+}
+
+.about{
+    padding: 10vw;
+}
+.a-heading{
+    font-size: 55px;
+}
+.about-heading{
+    width: 45%;
+}
+.para1,.para2{
+    font-family: 'DM Sans', sans-serif;
+}
+.btn4{
+    width: 179px;
+    height: 64px;
+    border: 1px solid #2C2F24;
+    border-radius: 30px;
+    color: black;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: bold;
+    margin-top: 20px;
+    background-color: transparent;
+}
+.decor{
+    background-color: white;
+    padding: 50px;
+}
+.bor-card{
+    border: none;
+    text-align: left;
+    font-family: 'DM Sans', sans-serif;
+}
+.bor-card h5{
+    font-weight: bold;
+}
+.cardP{
+    font-size: 12px;
+}
+.decor-heading{
+    font-size: 2.5rem;
+    width: 30%;
+    position: relative;
+    left: 130px;
+}
+
+.customer{
+    background-color: white;
+}
